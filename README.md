@@ -1,5 +1,6 @@
 # hello-world
 git repository hello world
 
-update readme.file on pc
+readme-edit branch commit test
 
+update readme.file on pc
